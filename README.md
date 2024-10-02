@@ -65,8 +65,22 @@ Header Guardian performs passive scanning by analyzing HTTP responses and checki
 - `X-AspNet-Version`
 - `X-AspNetMvc-Version`
 
-## References
-For more details on configuring HTTP security headers, refer to the [OWASP HTTP Headers Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/HTTP_Headers_Cheat_Sheet.html).
+License
+-------
 
-## License
-This project is licensed under the MIT License.
+This project is licensed under the GNU General Public License v3.0 - see the LICENSE file for details.
+
+Contributing
+------------
+
+Contributions are welcome! If you find a bug or have a feature request, please open an issue or submit a pull request.
+
+Contact
+-------
+
+For any questions or issues, please contact oldermutt@proton.me
+
+Acknowledgments
+---------------
+
+-   This extension follows recommendations for HTTP security headers from OWASP. For more details, refer to the [OWASP HTTP Headers Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/HTTP_Headers_Cheat_Sheet.html).
